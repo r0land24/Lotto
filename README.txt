@@ -1,0 +1,1 @@
+﻿Ötöslottó sorsolást szimuláló program! JavaFX alapjainak elsajátítását szolgáltatja.
